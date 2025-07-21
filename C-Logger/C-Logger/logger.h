@@ -7,6 +7,7 @@
 #include <time.h>
 
 #define DATE_TIME_LIMIT 11
+#define LOG_LEVEL_LIMIT 2
 #define LOG_FILE "log.txt"
 
 static FILE* fp = NULL;
